@@ -2,7 +2,7 @@
 
 ## Overview
 
-This is a comprehensive inventory management solution for Android devices. Users can sign in and easily manage inventory with basic Create, Read, Update, and Delete (CRUD) operations.
+This is a comprehensive inventory management application for Android devices. Users can sign in and easily manage inventory with basic Create, Read, Update, and Delete (CRUD) operations.
 
 ## Features
 
